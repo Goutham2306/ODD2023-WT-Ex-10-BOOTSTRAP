@@ -56,7 +56,7 @@ html
 ```
 
 ## OUTPUT 10(a):
-![image](https://github.com/Goutham2306/ODD2023-WT-Ex-10-BOOTSTRAP/assets/138971154/5a854141-c321-4c42-a1d6-4e405dd38d76)
+![image](https://github.com/Goutham2306/ODD2023-WT-Ex-10-BOOTSTRAP/assets/138971154/423eb3bb-a491-4c78-ac50-bcfc5b17a8a5)
 
 ## RESULT:
 Succesfully created a responsive feedback form for a virtual workshop on constructing modern websites built with Bootstrap.
@@ -81,7 +81,8 @@ Add Bootstrap Styles to Submit Button in the program.
 Close the program and Display the Output.
 
 ## CODE:
-```html
+```
+html
 <html>
 <head>
 <h1>College Registration Form</h1>
@@ -130,7 +131,7 @@ Close the program and Display the Output.
 ```
 ## OUTPUT 10(b):
 
-![image](https://github.com/Goutham2306/ODD2023-WT-Ex-10-BOOTSTRAP/assets/138971154/08559971-80db-4410-af20-25b455d7ce9d)
+![image](https://github.com/Goutham2306/ODD2023-WT-Ex-10-BOOTSTRAP/assets/138971154/c4261ccd-256d-4000-a778-342629233685)
 
 ## RESULT:
 Succesfully Created a Responsive student registration form for ABC Engineering College built with Bootstrap.
@@ -208,7 +209,6 @@ Close the program and Display the Output.
 
 ## OUTPUT 10(c):
 
-![image](https://github.com/Goutham2306/ODD2023-WT-Ex-10-BOOTSTRAP/assets/138971154/75b59498-ec0b-4e12-a416-4cad21b4d185)
 
 ## RESULT:
 Succesfully Developed the program to structure vertical form layouts which handle form validation in bootstrap.
@@ -272,7 +272,7 @@ Close the program and Display the Output.
 
 ## OUTPUT 10(d):
 
-![image](https://github.com/Goutham2306/ODD2023-WT-Ex-10-BOOTSTRAP/assets/138971154/cab98793-0309-4ad1-a0bc-5cd70380ed51)
+
 ## RESULT:
 Successfully Created the basic email login form in Bootstrap with validation function.
 
