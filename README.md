@@ -209,6 +209,8 @@ Close the program and Display the Output.
 
 ## OUTPUT 10(c):
 
+![image](https://github.com/Goutham2306/ODD2023-WT-Ex-10-BOOTSTRAP/assets/138971154/184b3bd6-8f1b-4925-8814-1390a969523f)
+
 
 ## RESULT:
 Succesfully Developed the program to structure vertical form layouts which handle form validation in bootstrap.
@@ -233,7 +235,8 @@ Add Bootstrap Styles to Submit Button in the program.
 Close the program and Display the Output.
 
 ## CODE:
-```html
+```
+html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -272,6 +275,7 @@ Close the program and Display the Output.
 
 ## OUTPUT 10(d):
 
+![image](https://github.com/Goutham2306/ODD2023-WT-Ex-10-BOOTSTRAP/assets/138971154/216ea5d0-9eb5-43fe-bb58-9fa9b876c129)
 
 ## RESULT:
 Successfully Created the basic email login form in Bootstrap with validation function.
